@@ -1,4 +1,4 @@
-# -AWS-Registration-Test-202305
+# -AWS-Registration-Test-20230526
 
 ### 진행기간 2023.05.26
 
